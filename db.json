@@ -1,5 +1,4 @@
 {
-
     "loanTerms": [
         {
             "personId": "b3248899-cf35-44e0-03aa-08d84dd66872",
@@ -10,6 +9,11 @@
             "personId": "7c02ae44-c8af-4a26-d228-08d871a70ef0",
             "limit": 1200000.00,
             "interestRate": 1.5
+        },
+        {
+            "personId": "8e497c9f-1e36-4275-6e09-08d87b15fd42",
+            "limit": 1300000.00,
+            "interestRate": 3.5
         }
     ]
 }
