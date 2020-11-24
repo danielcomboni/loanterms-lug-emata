@@ -24,6 +24,11 @@
             "personId": "11d46a97-0f1d-4c5e-6e07-08d87b15fd42",
             "limit": 1300000.00,
             "interestRate": 3.5
+        },
+        {
+            "personId": "cf1e0f69-9c06-4fd6-6e10-08d87b15fd42",
+            "limit": 1300000.00,
+            "interestRate": 3.5
         }
     ]
 }
