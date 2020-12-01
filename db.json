@@ -5,26 +5,6 @@
         "interestRate": 2.5
     },
     {
-        "personId": "7c02ae44-c8af-4a26-d228-08d871a70ef0",
-        "limit": 1200000,
-        "interestRate": 1.5
-    },
-    {
-        "personId": "8e497c9f-1e36-4275-6e09-08d87b15fd42",
-        "limit": 1300000,
-        "interestRate": 3.5
-    },
-    {
-        "personId": "f27f7dd8-b91f-4ce0-6e0f-08d87b15fd42",
-        "limit": 1300000,
-        "interestRate": 3.5
-    },
-    {
-        "personId": "11d46a97-0f1d-4c5e-6e07-08d87b15fd42",
-        "limit": 1300000,
-        "interestRate": 3.5
-    },
-    {
         "personId": "e847b2f4-5f69-4abe-6633-08d88b84adb4",
         "limit": 1500000,
         "interestRate": 3.5
