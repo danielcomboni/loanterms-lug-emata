@@ -35,11 +35,6 @@
         "interestRate": 3
     },
     {
-        "personId": "3e08d56a-6e9f-4c6e-a538-08d88baa112e",
-        "limit": 800000,
-        "interestRate": 2
-    },
-    {
         "personId": "ffc872fb-c8e7-45c2-6631-08d88b84adb4",
         "limit": 800000,
         "interestRate": 2
